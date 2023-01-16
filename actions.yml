@@ -1,0 +1,4 @@
+app-action:
+  text: PlantUML Diagram Generator
+  location: plantuml-diagram-generator/index.html
+  uris: plantuml-diagram-generator
