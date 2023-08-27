@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.nasdanika</groupId>
 	<artifactId>plantuml-diagram-generator</artifactId>
-	<version>2023.4.1</version>
+	<version>2023.8.0</version>
 	<packaging>jar</packaging>
 	<name>PlantUML DiagramGenerator</name>
 	<description>org.nasdanika.common.DiagramGenerator which uses PlantUML</description>
@@ -135,7 +135,7 @@
 		<dependency>
 			<groupId>org.nasdanika.core</groupId>
 			<artifactId>common</artifactId>
-			<version>2023.4.1</version>
+			<version>2023.8.0</version>
 		</dependency>
 		
 		<dependency>
